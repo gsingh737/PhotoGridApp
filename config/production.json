@@ -1,0 +1,7 @@
+{
+  "host": "",
+  "S3AccessKey": "",
+  "S3Secret": "",
+  "S3Bucket": "",
+  "dburl": ""
+}
